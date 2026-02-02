@@ -24,8 +24,7 @@ WatchFace({
 
     this.buildTimeScale();
 
-    this.buildTimeWidget();
-    this.buildStepsWidget();
+
 
     hmUI.createWidget(hmUI.widget.CIRCLE, OVERLAY_CIRCLE_AOD_PROPS);
   },
